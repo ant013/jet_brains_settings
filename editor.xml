@@ -1,4 +1,7 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="15" />
+  </component>
   <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" NON_STRICT_FOREIGN_KEYS="false" SUGGEST_ALIAS_NAMES="false">
     <option name="suggestAliasNames" value="false" />
     <option name="supportNonStrictForeignKeys" value="false" />
