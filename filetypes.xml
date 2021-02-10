@@ -1,6 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="gecko_coins" type="JSON" />
       <mapping pattern="gecko_coinlist" type="JSON" />
       <mapping pattern="gecko_coinlist.json" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
