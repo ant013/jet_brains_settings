@@ -4,6 +4,7 @@
       <mapping pattern="gecko_coins" type="JSON" />
       <mapping pattern="gecko_coinlist" type="JSON" />
       <mapping pattern="gecko_coinlist.json" type="PLAIN_TEXT" />
+      <mapping ext="checkpoint" type="PLAIN_TEXT" />
       <mapping ext="resolved" type="PLAIN_TEXT" />
       <mapping ext="gpx" type="XML" />
       <mapping ext="xcscheme" type="XML" />
