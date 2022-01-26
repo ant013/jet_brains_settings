@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="/Volumes/Data/IOS/WalletConnectSwiftV2/Example" />
+      </list>
+    </option>
+  </component>
+</application>
