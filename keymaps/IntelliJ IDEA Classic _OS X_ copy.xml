@@ -11,6 +11,7 @@
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
   <action id="EditorMatchBrace" />
+  <action id="Exit" />
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
