@@ -18,4 +18,7 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="Tool_External Tools_swift-format">
+    <keyboard-shortcut first-keystroke="meta alt semicolon" />
+  </action>
 </keymap>
